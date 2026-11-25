@@ -104,7 +104,6 @@ Now I'm expanding into **AI/ML**, learning by building small, practical projects
   <a href="https://github.com/dipika-nikam18?tab=achievements&achievement=quickdraw"><img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-FFC107?style=for-the-badge" /></a>
   <a href="https://github.com/dipika-nikam18?tab=achievements&achievement=pull-shark"><img src="https://img.shields.io/badge/🦈_Pull_Shark-Unlocked-0EA5E9?style=for-the-badge" /></a>
 </p>
----
 
 ## 📫 Connect With Me
 
