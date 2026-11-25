@@ -114,4 +114,5 @@ Now I'm expanding into **AI/ML**, learning by building small, practical projects
   <a href="https://github.com/dipika-nikam18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+---
 <p align="center"><i>⭐ Thanks for stopping by! Let's learn and build together.</i></p>
